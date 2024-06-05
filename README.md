@@ -8,3 +8,7 @@
 ## this is feature2 change
 
 1. how to fix mulit-branch merge
+
+## thiis is feature1 change
+
+1. mulit-branch fix
